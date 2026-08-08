@@ -36,6 +36,7 @@ jobs:
             libavcodec-dev \
             zlib1g-dev \
             libtool \
+            libtool-bin \
             autoconf \
             automake \
             libffi-dev \
