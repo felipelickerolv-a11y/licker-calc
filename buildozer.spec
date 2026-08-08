@@ -12,6 +12,4 @@ android.api = 33
 android.minapi = 21
 android.ndk = 25b
 android.archs = arm64-v8a
-
-# Adicione esta linha abaixo para aceitar a licença do SDK automaticamente:
 android.accept_sdk_license = True
